@@ -89,12 +89,6 @@ todo-list-app/
 
 ---
 
-## Screenshots
-
-![Todo List App Screenshot](./assets/Screenshot 2024-11-20 190215.jpg)
-
-
-
 ## **Future Enhancements**
 - Add task categories or priorities.
 - Implement a search or filter feature for tasks.
