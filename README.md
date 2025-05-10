@@ -4,6 +4,10 @@ A dynamic and interactive Todo List application built with React and Vite. The a
 
 ---
 
+🚀 Live Demo: [Taskly is deployed on Vercel](https://taskly-psi-three.vercel.app/)
+
+---
+
 ## **Features**
 - **Add Tasks:** Dynamically add new tasks to the list.
 - **Mark as Done/Undone:** Toggle tasks as completed or incomplete.
