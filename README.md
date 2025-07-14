@@ -93,7 +93,6 @@ todo-list-app/
 ## 📸 Screenshots
 
 Dashboard:
-![image](https://github.com/user-attachments/assets/6e6f6c9a-1bc6-4640-8d42-44ae8478b385)
 <img width="1918" height="977" alt="image" src="https://github.com/user-attachments/assets/b98bbfa4-e24b-483b-ab53-1eb09d11ef16" />
 
 
