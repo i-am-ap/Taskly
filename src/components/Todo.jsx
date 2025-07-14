@@ -41,7 +41,7 @@ const Todo = () => {
   return (
     <div className='todo'>
         <div className="todo-header">
-            To-do list
+            Taskly
         </div>
         <div className="todo-add">
             <input ref={inputRef} type="text" placeholder="Add new task" className='todo-input'/>

@@ -41,7 +41,7 @@
 
 .todo-add-btn{
     border-radius: 50px;
-    background-color: #ff6739;
+    background-color: #0191ff;
     width: 187px;
     height: 80px;
     display: flex;
@@ -111,12 +111,14 @@
     }
     
     .todo-add-btn {
-        width: 120px;
+        width: 80px;
         font-size: 18px;
         height: 40px;
+        margin-left: 0;
     }
 
-    .todo-add {
-        size: 10px;
+    .todo-list{
+        margin-top: 20px;
+        background-color: #ffffff;
     }
 }
