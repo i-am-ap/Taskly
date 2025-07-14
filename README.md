@@ -1,6 +1,10 @@
-# **Todo List App**
+# **✅Taskly📋**
 
 A dynamic and interactive Todo List application built with React and Vite. The app enables users to efficiently manage their tasks by adding, ticking/unticking, and removing todos. Task counts are updated in real time, and the application leverages local storage to maintain state between sessions.
+
+---
+
+🚀 Live Demo: [Taskly is deployed on Vercel](https://taskly-psi-three.vercel.app/)
 
 ---
 
@@ -86,6 +90,12 @@ todo-list-app/
 ├── eslint.config.js       # ESLint configuration
 
 ```
+## 📸 Screenshots
+
+Dashboard:
+![image](https://github.com/user-attachments/assets/6e6f6c9a-1bc6-4640-8d42-44ae8478b385)
+
+
 
 ---
 
