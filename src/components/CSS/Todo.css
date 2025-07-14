@@ -53,3 +53,70 @@
     font-weight: 600;
     cursor: pointer;
 }
+
+@media (max-width: 768px) {
+
+      * {
+        box-sizing: border-box;
+        margin: 0;  
+        padding: 0;
+    }
+
+    .todo {
+        width: 90%;
+        padding: 20px;
+        width: 85%;
+        margin-top: 50px;
+        min-height: 800px;
+    }
+    
+    .todo-header {
+        font-size: 28px;
+    }
+    
+    .todo-input {
+        width: calc(100% - 100px);
+    }
+    
+    .todo-add-btn {
+        width: 150px;
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 480px) {
+
+    * {
+        box-sizing: border-box;
+        margin: 0;  
+        padding: 0;
+    }
+    
+    .todo {
+        width: 85%;
+        padding: 10px;
+        height: 100px;
+        min-height: 600px;
+        margin-top: 50px;
+    }
+    
+    .todo-header {
+        font-size: 34px;
+        margin-top: 70px;
+    }
+    
+    .todo-input {
+        width: calc(100% - 80px);
+        height: 40px;
+    }
+    
+    .todo-add-btn {
+        width: 120px;
+        font-size: 18px;
+        height: 40px;
+    }
+
+    .todo-add {
+        size: 10px;
+    }
+}
